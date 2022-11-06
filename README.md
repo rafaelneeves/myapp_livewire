@@ -2,7 +2,7 @@
 
 ## To-do List Livewire
 
-Criei este to-do list com o intuito de conhecer o framework livewire. 
+Criei este to-do list com o intuito de conhecer o framework livewire. <br>
 O To-do List Livewire é um crud que insere, atualiza, lista e deleta um lista de coisas. 
 
 ## Requisitos
