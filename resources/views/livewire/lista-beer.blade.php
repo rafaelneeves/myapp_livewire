@@ -12,7 +12,7 @@
             <li>
                 <span>{{$lista_nome}} - {{$key}}</span>
                 <button wire:click="edit({{$key}})">Editar</button>
-                <button wire:click="delete({{$key}})">X</button>
+                <button wire:click="delete({{$key}})">x</button>
             </li>
         @endforeach
     </ul>
